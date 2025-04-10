@@ -14,7 +14,7 @@ Scripts focused on SQL-based data extraction and report generation for store-lev
 ## 🧩 Utilities & Automation Tools
 Efficient helpers for daily IT work – from file checks to automation support scripts.
 
-> _(Coming soon)_
+- [gk-support](https://github.com/Renadeim/GK_Support.au3) – Modular GUI tool for streamlining support tasks in multi-system retail environments
 
 ---
 
